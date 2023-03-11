@@ -1,0 +1,10 @@
+.product_taital {
+    padding-top: 600px;
+    text-align: center;
+}
+
+.categorie {
+    display: inline-block;
+    color: red;
+    padding: 2% 10% 2% 10%;
+}
